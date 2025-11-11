@@ -4,8 +4,8 @@
 
 **Building beautiful, functional websites that deliver results.**
 
-[![Portfolio](https://img.shields.io/badge/📁_See_My_Portfolio-Live-8A2BE2?style=for-the-badge)](https://yourwebsite.com/portfolio)
-[![Contact](https://img.shields.io/badge/📧_Get_In_Touch-Free_Consultation-green?style=for-the-badge)](mailto:contact@you.com)
+[![Portfolio]((https://charlene-makwara-planet09-portfolio.vercel.app/)/badge/📁_See_My_Portfolio-Live-8A2BE2?style=for-the-badge)](https://yourwebsite.com/portfolio)
+[![Contact](https://img.shields.io/badge/📧_Get_In_Touch-Free_Consultation-green?style=for-the-badge)](mailto:qmwebdesigns24@gmail.com)
 
 </div>
 
