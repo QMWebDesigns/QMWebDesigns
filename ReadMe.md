@@ -21,7 +21,6 @@
 | [**🎨 Creative Portfolio**](#) <br /> ![A vibrant portfolio website for a photographer, with a masonry gallery and smooth animations](https://via.placeholder.com/500x300/8E44AD/FFFFFF?text=Portfolio+Demo+GIF) | A dynamic, visually-driven portfolio for a professional photographer, featuring a filterable gallery and client testimonial section. | `HTML5` `CSS3` `JavaScript` `Netlify` | [**🌐 Visit Site**](#) |
 | [**🏢 Business Website**](#) <br /> ![A professional corporate website with a clean layout, service sections, and a contact form](https://via.placeholder.com/500x300/3498DB/FFFFFF?text=Business+Site+Demo+GIF) | A responsive and SEO-optimized website for a consulting firm, designed to establish trust and generate leads. | `React` `Node.js` `MongoDB` `Figma` | [**🌐 Visit Site**](#) |
 
-> **💡 Pro Tip:** *Replace the placeholder images with GIFs or screenshots of your actual work! You can use tools like [Giphy Capture](https://giphy.com/apps/giphycapture) or [ScreenToGif](https://www.screentogif.com/) to record short, engaging demos of your sites in action.*
 
 ---
 
@@ -61,8 +60,8 @@ Ready to bring your idea to life? Here's how we can get started:
 4.  **🛠️ Once approved, the development begins!** I believe in transparent communication and will keep you updated every step of the way.
 
 **Get in touch today:**
-*   **Email:** [contact@you.com](mailto:contact@you.com)
-*   **Website:** [https://yourwebsite.com](https://yourwebsite.com)
+*   **Email:** qmwebdesigns24@gmail.com
+*   **Website:** (https://qm-web-designs.vercel.app/)
 *   **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
 *   **Instagram:** [@yourprofile](https://instagram.com/yourprofile)
 
@@ -73,7 +72,7 @@ Ready to bring your idea to life? Here's how we can get started:
 ### **Thank you for visiting! Have a project in mind?**
 [![Let's Talk!](https://img.shields.io/badge/Let's_Talk!-Schedule_a_call-8A2BE2?style=for-the-badge)](mailto:contact@you.com)
 
-© 2025 **QM Web Designs** – All rights reserved.
+© 2024 **QM Web Designs** – All rights reserved.
 
 [**⬆ Back to Top**](#top)
 
