@@ -24,7 +24,6 @@
 | [**🎨 QM Web Designs Business Site**](#) <br /> ![Professional web design business website](https://via.placeholder.com/500x300/8E44AD/FFFFFF?text=Business+Site+Preview) | The official QM Web Designs business website, featuring services, portfolio highlights, and client contact information with responsive design. | `HTML5` `CSS3` `JavaScript` `Vercel` | [**🌐 Visit Site**](https://qm-web-designs.vercel.app/) |
 | [**🛒 E-Commerce Solutions**](#) <br /> ![Modern e-commerce website interface](https://via.placeholder.com/500x300/3498DB/FFFFFF?text=E+Commerce+Demo) | Custom e-commerce solutions built with modern technologies to help businesses sell products online with secure payments and admin dashboards. | `React` `Firebase` `Stripe` `Tailwind CSS` | [**🌐 Coming Soon**](#) |
 
-> **💡 Pro Tip:** *Replace the placeholder images with GIFs or screenshots of your actual work! You can use tools like [Giphy Capture](https://giphy.com/apps/giphycapture) or [ScreenToGif](https://www.screentogif.com/) to record short, engaging demos of your sites in action.*
 
 ---
 
@@ -77,7 +76,7 @@ Ready to bring your idea to life? Here's how we can get started:
 ### **Thank you for visiting! Have a project in mind?**
 [![Let's Talk!](https://img.shields.io/badge/Let's_Talk!-Schedule_a_call-8A2BE2?style=for-the-badge)](mailto:qmwebdesigns24@gmail.com)
 
-© 2025 **QM Web Designs** – All rights reserved.
+© 2024 **QM Web Designs** – All rights reserved.
 
 [**⬆ Back to Top**](#top)
 
