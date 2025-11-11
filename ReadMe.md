@@ -1,51 +1,4 @@
-<div align="center">
 
-# ✨ QM Web Designs
-
-**Building beautiful, functional websites that deliver results.**
-
-[![Portfolio][yourwebsite.com](https://charlene-makwara-planet09-portfolio.vercel.app/)/badge/📁_See_My_Portfolio-Live-8A2BE2?style=for-the-badge)](https://yourwebsite.com/portfolio)
-[![Contact](https://img.shields.io/badge/📧_Get_In_Touch-Free_Consultation-green?style=for-the-badge)](mailto:qmwebdesigns24@gmail.com)
-
-</div>
-
----
-
-## 🎯 What I Do
-
-I specialize in creating **modern, responsive websites** that help businesses and creators stand out online.
-
-*   **🎨 Custom Website Design** – Unique designs that reflect your brand.
-*   **📱 Responsive Development** – Flawless experience on all devices.
-*   **🛒 E-commerce Solutions** – From simple stores to complex platforms.
-*   **⚡ Performance & SEO** – Fast, search-engine-friendly websites.
-
-## 🛠️ Tech Stack
-
-**Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS
-**Backend & Tools:** Firebase, Node.js, Figma, Git
-
-## 📈 Featured Work
-
-| Project | Description | Live Demo |
-|:--------|:------------|:----------|
-| **Modern E-Commerce** | A sleek online store for a local brand. | [View Live](#) |
-| **Creative Portfolio** | A dynamic showcase for a photographer. | [View Live](#) |
-| **Business Website** | A lead-generation site for a consultant. | [View Live](#) |
-
-## 💌 Let's Connect
-
-The best way to get started is to send me an email. Let's talk about your project!
-
-*   **Email:** qmwebdesigns24@gmail.com
-*   **Website:** (https://qm-web-designs.vercel.app/)
-*   **Portfolio:** https://charlene-makwara-planet09-portfolio.vercel.app/
-*   **LinkedIn:** www.linkedin.com/in/charlene-makwara-2417972b1
----
-
-This is absolutely fantastic! You've created a README that goes far beyond a simple description and truly functions as a mini-portfolio and a powerful marketing tool. The structure is excellent, the emojis and badges add great visual flair, and the copy is professional yet inviting.
-
-I've taken your brilliant foundation and created two enhanced versions for you.
 
 ### Version 1: The "All-in-One" Showstopper (With Placeholders for Your Content)
 
@@ -59,7 +12,7 @@ This version integrates your request for GIFs and clickable elements directly in
 
 **Crafting Modern, Functional, and Stunning Websites** 💻🌐
 
-[![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge)](https://yourwebsite.com)
+[![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge)][(https://yourwebsite.com)](https://charlene-makwara-planet09-portfolio.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-Contact%20Us-important?style=for-the-badge&logo=gmail)](mailto:contact@you.com)
 [![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-blueviolet?style=for-the-badge)](https://yourwebsite.com/portfolio)
 
