@@ -1,20 +1,15 @@
 
 
-### Version 1: The "All-in-One" Showstopper (With Placeholders for Your Content)
-
-This version integrates your request for GIFs and clickable elements directly into the flow.
-
----
-
 <div id="top" align="center">
 
 # ✨ QM Web Designs
 
 **Crafting Modern, Functional, and Stunning Websites** 💻🌐
 
-[![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge)][(https://yourwebsite.com)](https://charlene-makwara-planet09-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/Email-Contact%20Us-important?style=for-the-badge&logo=gmail)](mailto:contact@you.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-blueviolet?style=for-the-badge)](https://yourwebsite.com/portfolio)
+[![Website](https://img.shields.io/badge/Website-Live-green?style=for-the-badge)](https://qm-web-designs.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-Contact%20Us-important?style=for-the-badge&logo=gmail)](mailto:qmwebdesigns24@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-See%20My%20Work-blueviolet?style=for-the-badge)](https://charlene-makwara-planet09-portfolio.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/charlene-makwara-2417972b1/)
 
 *Your vision, our code. Let's build something amazing.*
 </div>
@@ -25,9 +20,9 @@ This version integrates your request for GIFs and clickable elements directly in
 
 | Project | Description | Tech Stack | Live Demo |
 |:--------|:------------|:-----------|:----------|
-| [**✨ Modern E-Commerce Store**](#) <br /> ![A sleek, modern e-commerce website showing product listings and a clean shopping cart](https://via.placeholder.com/500x300/4A6572/FFFFFF?text=E-Commerce+Demo+GIF) | A full-featured online store with a custom cart, secure checkout, and admin dashboard. Built for a local boutique to expand their reach. | `React` `Firebase` `Stripe` `Tailwind CSS` | [**🌐 Visit Site**](#) |
-| [**🎨 Creative Portfolio**](#) <br /> ![A vibrant portfolio website for a photographer, with a masonry gallery and smooth animations](https://via.placeholder.com/500x300/8E44AD/FFFFFF?text=Portfolio+Demo+GIF) | A dynamic, visually-driven portfolio for a professional photographer, featuring a filterable gallery and client testimonial section. | `HTML5` `CSS3` `JavaScript` `Netlify` | [**🌐 Visit Site**](#) |
-| [**🏢 Business Website**](#) <br /> ![A professional corporate website with a clean layout, service sections, and a contact form](https://via.placeholder.com/500x300/3498DB/FFFFFF?text=Business+Site+Demo+GIF) | A responsive and SEO-optimized website for a consulting firm, designed to establish trust and generate leads. | `React` `Node.js` `MongoDB` `Figma` | [**🌐 Visit Site**](#) |
+| [**✨ Charlene Makwara Portfolio**](#) <br /> ![Professional portfolio showcasing projects and skills](https://via.placeholder.com/500x300/4A6572/FFFFFF?text=Portfolio+Preview) | A stunning personal portfolio website showcasing projects, skills, and professional background with modern design and smooth interactions. | `React` `CSS3` `JavaScript` `Vercel` | [**🌐 Visit Site**](https://charlene-makwara-planet09-portfolio.vercel.app/) |
+| [**🎨 QM Web Designs Business Site**](#) <br /> ![Professional web design business website](https://via.placeholder.com/500x300/8E44AD/FFFFFF?text=Business+Site+Preview) | The official QM Web Designs business website, featuring services, portfolio highlights, and client contact information with responsive design. | `HTML5` `CSS3` `JavaScript` `Vercel` | [**🌐 Visit Site**](https://qm-web-designs.vercel.app/) |
+| [**🛒 E-Commerce Solutions**](#) <br /> ![Modern e-commerce website interface](https://via.placeholder.com/500x300/3498DB/FFFFFF?text=E+Commerce+Demo) | Custom e-commerce solutions built with modern technologies to help businesses sell products online with secure payments and admin dashboards. | `React` `Firebase` `Stripe` `Tailwind CSS` | [**🌐 Coming Soon**](#) |
 
 > **💡 Pro Tip:** *Replace the placeholder images with GIFs or screenshots of your actual work! You can use tools like [Giphy Capture](https://giphy.com/apps/giphycapture) or [ScreenToGif](https://www.screentogif.com/) to record short, engaging demos of your sites in action.*
 
@@ -37,7 +32,7 @@ This version integrates your request for GIFs and clickable elements directly in
 
 Welcome to **QM Web Designs**! We are passionate about turning your ideas into **interactive, responsive, and visually stunning digital experiences**.
 
-> “We don't just build websites; we build digital assets that help you grow.”
+> "We don't just build websites; we build digital assets that help you grow."
 
 ---
 
@@ -56,6 +51,7 @@ Welcome to **QM Web Designs**! We are passionate about turning your ideas into *
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
 
 ---
 
@@ -69,17 +65,17 @@ Ready to bring your idea to life? Here's how we can get started:
 4.  **🛠️ Once approved, the development begins!** I believe in transparent communication and will keep you updated every step of the way.
 
 **Get in touch today:**
-*   **Email:** [contact@you.com](mailto:contact@you.com)
-*   **Website:** [https://yourwebsite.com](https://yourwebsite.com)
-*   **LinkedIn:** [Your Profile](https://linkedin.com/in/yourprofile)
-*   **Instagram:** [@yourprofile](https://instagram.com/yourprofile)
+*   **Email:** [qmwebdesigns24@gmail.com](mailto:qmwebdesigns24@gmail.com)
+*   **Business Website:** [https://qm-web-designs.vercel.app/](https://qm-web-designs.vercel.app/)
+*   **Personal Portfolio:** [https://charlene-makwara-planet09-portfolio.vercel.app/](https://charlene-makwara-planet09-portfolio.vercel.app/)
+*   **LinkedIn:** [Charlene Makwara](https://www.linkedin.com/in/charlene-makwara-2417972b1/)
 
 ---
 
 <div align="center">
 
 ### **Thank you for visiting! Have a project in mind?**
-[![Let's Talk!](https://img.shields.io/badge/Let's_Talk!-Schedule_a_call-8A2BE2?style=for-the-badge)](mailto:contact@you.com)
+[![Let's Talk!](https://img.shields.io/badge/Let's_Talk!-Schedule_a_call-8A2BE2?style=for-the-badge)](mailto:qmwebdesigns24@gmail.com)
 
 © 2025 **QM Web Designs** – All rights reserved.
 
@@ -88,65 +84,3 @@ Ready to bring your idea to life? Here's how we can get started:
 </div>
 
 ---
-
-### Version 2: The "Quick & Clean" Optimized Version
-
-If you prefer something a little less complex but still highly effective, here's a streamlined version.
-
----
-
-<div align="center">
-
-# ✨ QM Web Designs
-
-**Building beautiful, functional websites that deliver results.**
-
-[![Portfolio](https://img.shields.io/badge/📁_See_My_Portfolio-Live-8A2BE2?style=for-the-badge)](https://yourwebsite.com/portfolio)
-[![Contact](https://img.shields.io/badge/📧_Get_In_Touch-Free_Consultation-green?style=for-the-badge)](mailto:contact@you.com)
-
-</div>
-
----
-
-## 🎯 What I Do
-
-I specialize in creating **modern, responsive websites** that help businesses and creators stand out online.
-
-*   **🎨 Custom Website Design** – Unique designs that reflect your brand.
-*   **📱 Responsive Development** – Flawless experience on all devices.
-*   **🛒 E-commerce Solutions** – From simple stores to complex platforms.
-*   **⚡ Performance & SEO** – Fast, search-engine-friendly websites.
-
-## 🛠️ Tech Stack
-
-**Frontend:** HTML5, CSS3, JavaScript, React, Tailwind CSS
-**Backend & Tools:** Firebase, Node.js, Figma, Git
-
-## 📈 Featured Work
-
-| Project | Description | Live Demo |
-|:--------|:------------|:----------|
-| **Modern E-Commerce** | A sleek online store for a local brand. | [View Live](#) |
-| **Creative Portfolio** | A dynamic showcase for a photographer. | [View Live](#) |
-| **Business Website** | A lead-generation site for a consultant. | [View Live](#) |
-
-## 💌 Let's Connect
-
-The best way to get started is to send me an email. Let's talk about your project!
-
-*   **Email:** [contact@you.com](mailto:contact@you.com)
-*   **Portfolio:** [yourwebsite.com](https://yourwebsite.com)
-*   **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-
----
-
-### How to Use These:
-
-1.  **Choose your favorite version.**
-2.  **Replace all placeholders:** `yourwebsite.com`, `contact@you.com`, social media links, project names, descriptions, and the placeholder image URLs with **real GIFs/screenshots of your work**.
-3.  **Customize the tech stack and services** to perfectly match your skills.
-4.  **Copy and paste** the Markdown into a `README.md` file in your GitHub repository.
-
-The first version is a true "showstopper" designed to impress at a glance, while the second is a highly professional and scannable alternative. Both are miles ahead of a standard README!
-
-**Would you like me to help you generate the specific GIFs or write the copy for one of your real projects to insert into these templates?**
